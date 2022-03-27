@@ -1,35 +1,37 @@
-Biuro nieruchomoœci (EstateAgency)
+Biuro nieruchomoÅ›ci (EstateAgency)
 
-1. Dodawanie, edycja, wyszukiwanie nieruchomoœci
-2. Dodawanie, edycja, wyszukiwanie klientów
-3. Mozliwoœæ kupna lub wynajêcia mieszkania przez klienta (je¿eli wynajem, to na jaki okres)
-4. Mo¿liwoœæ do³¹czenia miejsca parkingowego do mieszkania
+![Biuro nieruchomoÅ›ci](https://kamilplowiec.tk/img/portfolio/csdesktop6.jpg)
 
-________Opis dzia³ania____________
+1. Dodawanie, edycja, wyszukiwanie nieruchomoÅ›ci
+2. Dodawanie, edycja, wyszukiwanie klientÃ³w
+3. MozliwoÅ›Ä‡ kupna lub wynajÄ™cia mieszkania przez klienta (jeÅ¼eli wynajem, to na jaki okres)
+4. MoÅ¼liwoÅ›Ä‡ doÅ‚Ä…czenia miejsca parkingowego do mieszkania
 
-1. Logowanie do aplikacji odbywa sie przez wybór dzia³ania trybu programu (Deweloper lub Klient). Klikniêcie Zamknij zakoñczy dzia³anie programu.
+________Opis dziaÅ‚ania____________
 
-1.1. Deweloper - osoba maj¹ca mo¿liwoœæ dodawania og³oszeñ mieszkañ, akceptacji zakupu/wynajmu mieszkania.
-1.2. Klient - anonimowa osoba, mog¹ca przegl¹daæ og³oszenia mieszkañ i z³o¿yæ ofertê kupna/wynajmu.
+1. Logowanie do aplikacji odbywa sie przez wybÃ³r dziaÅ‚ania trybu programu (Deweloper lub Klient). KlikniÄ™cie Zamknij zakoÅ„czy dziaÅ‚anie programu.
 
-2. Panel wyszukiwarki mieszkañ
+1.1. Deweloper - osoba majÄ…ca moÅ¼liwoÅ›Ä‡ dodawania ogÅ‚oszeÅ„ mieszkaÅ„, akceptacji zakupu/wynajmu mieszkania.
+1.2. Klient - anonimowa osoba, mogÄ…ca przeglÄ…daÄ‡ ogÅ‚oszenia mieszkaÅ„ i zÅ‚oÅ¼yÄ‡ ofertÄ™ kupna/wynajmu.
 
-2.1. Deweloper - ma mo¿liwoœæ wyszukiwania mieszkañ wed³ug nazwy i adresu (wpisuj¹c w jednym polu). Widzi skrócone dane o mieszkaniu (nazwa, typ, piêtro, cena, adres, czy ma parking) oraz czy mieszkanie jest ju¿ wynajête/kupione. Klikniêcie w rekord umo¿liwia edycjê danych og³oszenia.
+2. Panel wyszukiwarki mieszkaÅ„
 
-2.2. Klient - ma mo¿liwoœæ wyszukiwania mieszkañ wed³ug nazwy i adresu (wpisuj¹c w jednym polu). Widzi skrócone dane o mieszkaniu (nazwa, typ, piêtro, cena, adres, czy ma parking). Klikniêcie w rekor umo¿liwia wyœwietlenie pe³nych informacji o mieszkaniu.
+2.1. Deweloper - ma moÅ¼liwoÅ›Ä‡ wyszukiwania mieszkaÅ„ wedÅ‚ug nazwy i adresu (wpisujÄ…c w jednym polu). Widzi skrÃ³cone dane o mieszkaniu (nazwa, typ, piÄ™tro, cena, adres, czy ma parking) oraz czy mieszkanie jest juÅ¼ wynajÄ™te/kupione. KlikniÄ™cie w rekord umoÅ¼liwia edycjÄ™ danych ogÅ‚oszenia.
+
+2.2. Klient - ma moÅ¼liwoÅ›Ä‡ wyszukiwania mieszkaÅ„ wedÅ‚ug nazwy i adresu (wpisujÄ…c w jednym polu). Widzi skrÃ³cone dane o mieszkaniu (nazwa, typ, piÄ™tro, cena, adres, czy ma parking). KlikniÄ™cie w rekor umoÅ¼liwia wyÅ›wietlenie peÅ‚nych informacji o mieszkaniu.
 
 3. Kup/wynajmij wybrane (tylko klient)
 
-3.1. Panel umo¿liwia wys³anie zg³oszenia chêci wynajêcia/kupna mieszkania. Odbywa siê to nastepuj¹co: klient klika w rekord, sprawdza opis, zamyka okno z opisem, klika Kup/Wynajmij wybrane. W zg³oszeniu nale¿y wype³niæ pola takie, jak: Nazwa (klienta), numer telefonu, adres e-mail. Pole wybranego mieszkania jest uzupe³nione automatycznie. Po zatwierdzeniu, klient jest informowany o koniecznoœci rozpatrzenia zg³oszenia przez dewelopera (panel Przejrzyj zg³oszenia dla dewelopera).
+3.1. Panel umoÅ¼liwia wysÅ‚anie zgÅ‚oszenia chÄ™ci wynajÄ™cia/kupna mieszkania. Odbywa siÄ™ to nastepujÄ…co: klient klika w rekord, sprawdza opis, zamyka okno z opisem, klika Kup/Wynajmij wybrane. W zgÅ‚oszeniu naleÅ¼y wypeÅ‚niÄ‡ pola takie, jak: Nazwa (klienta), numer telefonu, adres e-mail. Pole wybranego mieszkania jest uzupeÅ‚nione automatycznie. Po zatwierdzeniu, klient jest informowany o koniecznoÅ›ci rozpatrzenia zgÅ‚oszenia przez dewelopera (panel Przejrzyj zgÅ‚oszenia dla dewelopera).
 
-4. Dodawanie og³oszenia (tylko deweloper)
+4. Dodawanie ogÅ‚oszenia (tylko deweloper)
 
-4.1. Panel dodawania og³oszenia umo¿liwia dodanie mieszkania na sprzeda¿/do wynajêcia. Nale¿y uzupe³niæ dane takie, jak: nazwa, adres, koszt m2, powierzchnia m2, typ, piêtro. Mo¿na te¿ dodaæ informacjê o miejscu parkingowym w pakiecie z mieszkaniem.
+4.1. Panel dodawania ogÅ‚oszenia umoÅ¼liwia dodanie mieszkania na sprzedaÅ¼/do wynajÄ™cia. NaleÅ¼y uzupeÅ‚niÄ‡ dane takie, jak: nazwa, adres, koszt m2, powierzchnia m2, typ, piÄ™tro. MoÅ¼na teÅ¼ dodaÄ‡ informacjÄ™ o miejscu parkingowym w pakiecie z mieszkaniem.
 
-5. Przegl¹danie zg³oszeñ (tylko deweloper)
+5. PrzeglÄ…danie zgÅ‚oszeÅ„ (tylko deweloper)
 
-5.1. Panel wyœwietla liste zg³oszeñ chêci kupna/wynajmu mieszkaæ przez klientów. Po wejsciu w dany rekord mamy informacjê i zainteresowanym kliencie, jego danych kontaktowych i wybranym mieszkaniu. 
-5.2 Akceptacja zg³oszenia klienta odbywa sie przez zaznaczenie checkboxa ZatwierdŸ warunki wynajêcia/kupna i klikniêciu zapisz. Wyœwietlony zostanie monit Potwierdzenie. W tym miejscu mo¿na podejrzeæ, czy klient siê zgadza. W tym kroku nale¿y równie¿ wybraæ sposób wykorzystania (kupno lub wynajem). Je¿eli jest to wynajem, nale¿y ustawiæ datê koñca wynajmu. Po klikniêciu zatwierdŸ, og³oszenie znika z wyszukiwarki dla klientów, a w panelu wyszukiwarki dewelopera otrzymuje status Wynajête.
+5.1. Panel wyÅ›wietla liste zgÅ‚oszeÅ„ chÄ™ci kupna/wynajmu mieszkaÄ‡ przez klientÃ³w. Po wejsciu w dany rekord mamy informacjÄ™ i zainteresowanym kliencie, jego danych kontaktowych i wybranym mieszkaniu. 
+5.2 Akceptacja zgÅ‚oszenia klienta odbywa sie przez zaznaczenie checkboxa ZatwierdÅº warunki wynajÄ™cia/kupna i klikniÄ™ciu zapisz. WyÅ›wietlony zostanie monit Potwierdzenie. W tym miejscu moÅ¼na podejrzeÄ‡, czy klient siÄ™ zgadza. W tym kroku naleÅ¼y rÃ³wnieÅ¼ wybraÄ‡ sposÃ³b wykorzystania (kupno lub wynajem). JeÅ¼eli jest to wynajem, naleÅ¼y ustawiÄ‡ datÄ™ koÅ„ca wynajmu. Po klikniÄ™ciu zatwierdÅº, ogÅ‚oszenie znika z wyszukiwarki dla klientÃ³w, a w panelu wyszukiwarki dewelopera otrzymuje status WynajÄ™te.
 
 ___________ Tabele ________________
 
